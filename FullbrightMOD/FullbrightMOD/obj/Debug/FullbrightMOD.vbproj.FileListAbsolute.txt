@@ -1,0 +1,7 @@
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\bin\Debug\FullbrightMOD.exe
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\bin\Debug\FullbrightMOD.pdb
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\obj\Debug\FullbrightMOD.vbprojResolveAssemblyReference.cache
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\obj\Debug\FullbrightMOD.MainForm.resources
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\obj\Debug\FullbrightMOD.vbproj.GenerateResource.Cache
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\obj\Debug\FullbrightMOD.exe
+C:\Users\Doka\Documents\SharpDevelop Projects\FullbrightMOD\FullbrightMOD\obj\Debug\FullbrightMOD.pdb
